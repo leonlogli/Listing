@@ -37,18 +37,14 @@ function Section({children, title}: SectionProps) {
       <Text
         style={[
           styles.sectionTitle,
-          {
-            color: isDarkMode ? Colors.white : Colors.black,
-          },
+          {color: isDarkMode ? Colors.white : Colors.black},
         ]}>
         {title}
       </Text>
       <Text
         style={[
           styles.sectionDescription,
-          {
-            color: isDarkMode ? Colors.light : Colors.dark,
-          },
+          {color: isDarkMode ? Colors.light : Colors.dark},
         ]}>
         {children}
       </Text>
