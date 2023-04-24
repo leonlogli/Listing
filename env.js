@@ -1,3 +1,3 @@
-import { WEB_CLIENT_ID, IOS_CLIENT_ID } from '@env';
+import { GOOGLE_WEB_CLIENT_ID, GOOGLE_IOS_CLIENT_ID } from '@env';
 
-export default { WEB_CLIENT_ID, IOS_CLIENT_ID };
+export default { GOOGLE_WEB_CLIENT_ID, GOOGLE_IOS_CLIENT_ID };
