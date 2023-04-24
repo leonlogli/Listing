@@ -1,18 +1,18 @@
 import React, { useEffect } from 'react';
-import { GoogleSignin } from '@react-native-google-signin/google-signin';
-import { NavigationContainer } from '@react-navigation/native';
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import { SafeAreaProvider } from 'react-native-safe-area-context';
-import { Image } from 'react-native';
-import { colors } from './src/utils/colors';
 import Signin from './src/screens/auth/Signin';
 import Splash from './src/screens/auth/Splash';
 import Signup from './src/screens/auth/Signup';
 import Home from './src/screens/app/Home';
 import Favorites from './src/screens/app/Favorites';
 import Profile from './src/screens/app/Profile';
+import { GoogleSignin } from '@react-native-google-signin/google-signin';
 import env from './env';
+import { NavigationContainer } from '@react-navigation/native';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import { colors } from './src/utils/colors';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
+import { Image } from 'react-native';
 
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
