@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { SafeAreaView } from 'react-native';
 import Signin from './src/screens/auth/Signin';
 import { GoogleSignin } from '@react-native-google-signin/google-signin';
-import env from 'react-native-config';
+import env from './env';
 
 const App = () => {
   useEffect(() => {
