@@ -1,0 +1,285 @@
+[
+  {
+    "image": {
+      "filename": "sofa.jpeg",
+      "path": "data:image/jpeg;base64,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",
+      "size": 416810
+    },
+    "_id": "62f2b01ccb73c188917a1491",
+    "title": "Blue Sofa",
+    "subtitle": "Very cozy",
+    "description": "Hello. Presenting you this armchair.",
+    "price": 2500,
+    "liked": false,
+    "currency": "USD",
+    "category": "4",
+    "owner": "62efd2ea957f85781f5352ee",
+    "createdAt": "2022-08-09T19:06:04.095Z",
+    "updatedAt": "2023-03-26T20:19:24.436Z",
+    "__v": 0
+  },
+  {
+    "image": {
+      "filename": "foldable-table-in-natural-colour-by-clasicraft-foldable-table-in-natural-colour-by-clasicraft-ahmtub.jpeg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQP7ARHenfnGXcxCIhmDxObHocM8FPbjyaBg&usqp=CAU",
+      "size": 131949
+    },
+    "_id": "62f37474015619b78c656f9b",
+    "title": "Wood Mini Table",
+    "subtitle": "Very cozy",
+    "description": "Hello. Presenting you this armchair.",
+    "price": 1800,
+    "currency": "USD",
+    "category": "2",
+    "owner": "62efd2ea957f85781f5352ee",
+    "createdAt": "2022-08-10T09:03:48.289Z",
+    "updatedAt": "2023-03-26T18:51:01.103Z",
+    "__v": 0,
+    "liked": false
+  },
+  {
+    "image": {
+      "filename": "1FCC9A28-90B7-48D3-B5AD-9F5C477D9682.jpg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqeZ5mVbarupP8UWVic7UtumtbIyE0GY-ucQ&usqp=CAU",
+      "size": 369401
+    },
+    "_id": "62f39427d5e1938eb287557f",
+    "title": "Hello",
+    "description": "Something",
+    "price": 3939,
+    "category": "5",
+    "owner": "62f20b5d957f85781f53530c",
+    "createdAt": "2022-08-10T11:19:03.787Z",
+    "updatedAt": "2023-03-26T18:50:58.011Z",
+    "__v": 0,
+    "liked": false
+  },
+  {
+    "image": {
+      "filename": "rn_image_picker_lib_temp_822f000d-163a-4879-b968-0eb8239066ea.jpg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXnC3fwMwkbIt3ejGRIw3NmbDyUtgS5g2jA&usqp=CAU",
+      "size": 319383
+    },
+    "_id": "63453c86d5e1938eb2875909",
+    "title": "Bismillah ke 9",
+    "description": "Bismillah bisa dah mau pulang ini",
+    "price": 123456789,
+    "category": "1",
+    "owner": "633a91a0d5e1938eb28755e1",
+    "createdAt": "2022-10-11T09:51:02.141Z",
+    "updatedAt": "2023-03-26T18:50:55.261Z",
+    "__v": 0,
+    "liked": false
+  },
+  {
+    "image": {
+      "filename": "rn_image_picker_lib_temp_c3b5d9d5-6b9f-49b4-b8b8-a1c22b935585.jpg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFeoD7D_idWVYoIOR0HvwAanpi_Rmnx7vI1Q&usqp=CAU",
+      "size": 175161
+    },
+    "_id": "63453cf5d5e1938eb287590f",
+    "title": "Bismillah ke 10 ni test terakhir ",
+    "description": "Tessssst ke sepuluh, terakhir niii, semoga bisa, dah mau pulanggh",
+    "price": 6969,
+    "category": "4",
+    "owner": "633a91a0d5e1938eb28755e1",
+    "createdAt": "2022-10-11T09:52:53.023Z",
+    "updatedAt": "2023-03-26T18:20:32.350Z",
+    "__v": 0,
+    "liked": false
+  },
+  {
+    "_id": "6348c475d5e1938eb2875cd2",
+    "image": {
+      "filename": "rn_image_picker_lib_temp_c3b5d9d5-6b9f-49b4-b8b8-a1c22b935585.jpg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP6-MfoJ0MLH3ZH7oIyNvP_PfLRoYI-ZgPeQ&usqp=CAU",
+      "size": 175161
+    },
+    "title": "Blue armchair",
+    "subtitle": "Verycozy",
+    "price": 79,
+    "currency": "USD",
+    "category": "3",
+    "owner": "63464ae7d5e1938eb28759c0",
+    "createdAt": "2022-10-14T02:07:49.199Z",
+    "updatedAt": "2023-02-04T14:25:44.504Z",
+    "__v": 0,
+    "liked": false
+  },
+  {
+    "_id": "634a1a4fd5e1938eb2875d08",
+    "owner": "63464ae7d5e1938eb28759c0",
+    "createdAt": "2022-10-15T02:26:23.904Z",
+    "updatedAt": "2022-10-15T02:26:23.904Z",
+    "image": {
+      "filename": "rn_image_picker_lib_temp_c3b5d9d5-6b9f-49b4-b8b8-a1c22b935585.jpg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JoWjpdapIEg0kXRJvM5DdFaJr1hbdzL9yP2Fmvldzi-2mo8TkUc_BEmMwK2GgweVd20&usqp=CAU",
+      "size": 175161
+    },
+    "__v": 0
+  },
+  {
+    "_id": "63d6651cfb78ce903aeedc52",
+    "title": "Asdsf",
+    "subtitle": "Sfsdf",
+    "description": "Hello",
+    "price": 123,
+    "currency": "USD",
+    "category": "4",
+    "owner": "63d572c4fb78ce903aed963b",
+    "createdAt": "2023-01-29T12:22:52.443Z",
+    "updatedAt": "2023-01-29T12:22:52.443Z",
+    "image": {
+      "filename": "rn_image_picker_lib_temp_c3b5d9d5-6b9f-49b4-b8b8-a1c22b935585.jpg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ETPUM3G6l9Pe3VTHbMbx_yfLk5KqZ_kU9w&usqp=CAU",
+      "size": 175161
+    },
+    "__v": 0
+  },
+  {
+    "_id": "63d6651ffb78ce903aeedc58",
+    "title": "Asdsf",
+    "subtitle": "Sfsdf",
+    "description": "Hello",
+    "price": 123,
+    "currency": "USD",
+    "category": "4",
+    "owner": "63d572c4fb78ce903aed963b",
+    "createdAt": "2023-01-29T12:22:55.757Z",
+    "updatedAt": "2023-02-11T13:39:08.131Z",
+    "__v": 0,
+    "image": {
+      "filename": "rn_image_picker_lib_temp_c3b5d9d5-6b9f-49b4-b8b8-a1c22b935585.jpg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_SJ_yCbswI_pLjJUZvvfKUL0lRl_L1x64pacYw5WVx1JFE0Tle5zVya7mJ-PSlLgCSI&usqp=CAU",
+      "size": 175161
+    },
+    "liked": false
+  },
+  {
+    "image": {
+      "filename": "94716712-8A8A-4EF8-85E4-3D58D39395BB.jpg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL5tvZE8Q5xLf498UpYwXj_kPO7akkL0uKrA&usqp=CAU",
+      "size": 34015
+    },
+    "_id": "63d668fefb78ce903aeedc8a",
+    "title": "Daryo",
+    "subtitle": "Daryo bo’yi",
+    "description": "Salom",
+    "price": 123,
+    "currency": "USD",
+    "category": "3",
+    "owner": "63d572c4fb78ce903aed963b",
+    "createdAt": "2023-01-29T12:39:26.796Z",
+    "updatedAt": "2023-02-12T03:59:05.420Z",
+    "__v": 0,
+    "liked": false
+  },
+  {
+    "_id": "63d708b5fb78ce903aeef452",
+    "image": {
+      "filename": "rn_image_picker_lib_temp_c3b5d9d5-6b9f-49b4-b8b8-a1c22b935585.jpg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJx4MMFJHcZKqEL34Mo7iQPW4-_2YLNbXnKQ&usqp=CAU",
+      "size": 175161
+    },
+    "title": "wssw",
+    "description": "dedede",
+    "price": 52,
+    "category": "1",
+    "owner": "63d67eecfb78ce903aeedcb0",
+    "createdAt": "2023-01-30T00:00:53.727Z",
+    "updatedAt": "2023-02-11T13:39:02.166Z",
+    "__v": 0,
+    "liked": false
+  },
+  {
+    "_id": "63d70995fb78ce903aeef5e3",
+    "title": "prueba",
+    "description": "cdcdcdc\n",
+    "price": 1111,
+    "category": "3",
+    "image": {
+      "filename": "rn_image_picker_lib_temp_c3b5d9d5-6b9f-49b4-b8b8-a1c22b935585.jpg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW_CeO5YPV3_A5znkG_6nOclWW1jOfg78txQ&usqp=CAU",
+      "size": 175161
+    },
+    "owner": "63d67eecfb78ce903aeedcb0",
+    "createdAt": "2023-01-30T00:04:37.719Z",
+    "updatedAt": "2023-02-11T13:39:05.067Z",
+    "__v": 0,
+    "liked": false
+  },
+  {
+    "_id": "63e2328bfb78ce903aef3d55",
+    "image": {
+      "filename": "rn_image_picker_lib_temp_c3b5d9d5-6b9f-49b4-b8b8-a1c22b935585.jpg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPLDCsQbyInk-C5TZAlgwKO34mFlMOSssLw&usqp=CAU",
+      "size": 175161
+    },
+    "owner": "63d63a52fb78ce903aed9766",
+    "createdAt": "2023-02-07T11:14:19.932Z",
+    "updatedAt": "2023-02-11T13:38:54.993Z",
+    "__v": 0,
+    "liked": false
+  },
+  {
+    "_id": "63e23318fb78ce903aef3d6a",
+    "image": {
+      "filename": "rn_image_picker_lib_temp_c3b5d9d5-6b9f-49b4-b8b8-a1c22b935585.jpg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7xn8RKtrRP1SiXjk0QKDq8Q_yPtGwF6cRhg&usqp=CAU",
+      "size": 175161
+    },
+    "owner": "63d63a52fb78ce903aed9766",
+    "createdAt": "2023-02-07T11:16:40.687Z",
+    "updatedAt": "2023-02-07T11:16:40.687Z",
+    "__v": 0
+  },
+  {
+    "_id": "63e234befb78ce903aef3d84",
+    "owner": "63d63a52fb78ce903aed9766",
+    "createdAt": "2023-02-07T11:23:42.437Z",
+    "updatedAt": "2023-02-12T03:56:37.303Z",
+    "image": {
+      "filename": "rn_image_picker_lib_temp_c3b5d9d5-6b9f-49b4-b8b8-a1c22b935585.jpg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMBu7hU0Ows2d9g4gWdkZl72pLd7oR_E1ulKQgHI5solO26TZQTAc42Z46xtt06va0TUY&usqp=CAU",
+      "size": 175161
+    },
+    "__v": 0,
+    "liked": false
+  },
+  {
+    "_id": "6433dd89fb78ce903af0b6e7",
+    "title": "Wood Chair",
+    "subtitle": "Nice and comfy",
+    "description": "Hello. Presenting you this chair.",
+    "image": {
+      "filename": "rn_image_picker_lib_temp_c3b5d9d5-6b9f-49b4-b8b8-a1c22b935585.jpg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Kptz4V5tgKt4wA0upvOK-GRmV9-tXUk2yg&usqp=CAU",
+      "size": 175161
+    },
+    "price": 1000,
+    "currency": "USD",
+    "category": "1",
+    "owner": "62efd2ea957f85781f5352ee",
+    "createdAt": "2023-04-10T09:57:29.876Z",
+    "updatedAt": "2023-04-10T09:57:29.876Z",
+    "__v": 0
+  },
+  {
+    "_id": "6448517bfb78ce903af0b71d",
+    "title": "Wood Chair",
+    "subtitle": "Nice and comfy",
+    "description": "Hello. Presenting you this chair.",
+    "price": 1000,
+    "image": {
+      "filename": "rn_image_picker_lib_temp_c3b5d9d5-6b9f-49b4-b8b8-a1c22b935585.jpg",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LrFQ5FGXhdpxiNzODnlINAVAcVJzgUzhLg&usqp=CAU",
+      "size": 175161
+    },
+    "currency": "USD",
+    "category": "1",
+    "owner": "62efd2ea957f85781f5352ee",
+    "createdAt": "2023-04-25T22:17:31.168Z",
+    "updatedAt": "2023-04-25T22:17:31.168Z",
+    "__v": 0
+  }
+]

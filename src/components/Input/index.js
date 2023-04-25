@@ -6,7 +6,6 @@ import {
   View,
   Image,
   Modal,
-  TouchableWithoutFeedback,
   TouchableOpacity,
 } from 'react-native';
 import { styles } from './styles';

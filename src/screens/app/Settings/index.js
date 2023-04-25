@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useContext, useState } from 'react';
 import {
   Image,
   Linking,
@@ -13,19 +13,25 @@ import Header from '../../../components/Header';
 import ListItem from '../../../components/ListItem';
 import EditableBox from '../../../components/EditableBox';
 import Button from '../../../components/Button';
+import { ProfileContext } from '../../../../App';
+import { updateProfile } from '../../../utils/backendCalls';
 
 const Settings = ({ navigation }) => {
   const [editing, setEditing] = useState(false);
+  const { profile, setProfile } = useContext(ProfileContext);
   const [values, setValues] = useState({
-    name: 'User',
-    email: 'user@mail.com',
+    _id: profile?._id,
+    fullName: profile?.fullName,
+    email: profile?.email,
   });
 
   const onEditPress = () => {
     setEditing(true);
   };
 
-  const onSave = () => {
+  const onSave = async () => {
+    const updatedProfile = await updateProfile(values);
+    setProfile(updatedProfile);
     setEditing(false);
   };
 
@@ -56,8 +62,8 @@ const Settings = ({ navigation }) => {
         </View>
         <EditableBox
           label="Name"
-          onChangeText={(v) => onChange('name', v)}
-          value={values.name}
+          onChangeText={(v) => onChange('fullName', v)}
+          value={values.fullName}
           editable={editing}
         />
         <EditableBox

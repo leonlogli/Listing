@@ -1,5 +1,5 @@
 import React from 'react';
-import { Image, Pressable, Text, TextInput, View } from 'react-native';
+import { Text, TextInput, View } from 'react-native';
 import { styles } from './styles';
 
 const EditableBox = ({ label, value, onChangeText, editable, style }) => {
