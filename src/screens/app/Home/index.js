@@ -1,7 +1,8 @@
 import React, { useState, useEffect, useContext } from 'react';
 import { FlatList, View } from 'react-native';
-import { styles } from './styles';
 import { SafeAreaView } from 'react-native-safe-area-context';
+
+import { styles } from './styles';
 import Header from '../../../components/Header';
 import { categories } from '../../../data/categories';
 import CategoryBox from '../../../components/CategoryBox';
