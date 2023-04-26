@@ -8,7 +8,7 @@ import Separator from '../../../components/Separator';
 import GoogleLogin from '../../../components/GoogleLogin';
 import { styles } from './styles';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { signup } from '../../../utils/backendCalls';
+import { signup } from '../../../utils/services';
 import { UserContext } from '../../../../App';
 
 const Signup = ({ navigation }) => {

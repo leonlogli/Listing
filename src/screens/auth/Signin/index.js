@@ -7,7 +7,7 @@ import Separator from '../../../components/Separator';
 import GoogleLogin from '../../../components/GoogleLogin';
 import { styles } from './styles';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { login } from '../../../utils/backendCalls';
+import { login } from '../../../utils/services';
 import { UserContext } from '../../../../App';
 
 const Signin = ({ navigation }) => {

@@ -14,7 +14,7 @@ import ListItem from '../../../components/ListItem';
 import EditableBox from '../../../components/EditableBox';
 import Button from '../../../components/Button';
 import { ProfileContext } from '../../../../App';
-import { updateProfile } from '../../../utils/backendCalls';
+import { updateProfile } from '../../../utils/services';
 
 const Settings = ({ navigation }) => {
   const [editing, setEditing] = useState(false);

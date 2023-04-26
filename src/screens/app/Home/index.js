@@ -6,7 +6,7 @@ import Header from '../../../components/Header';
 import { categories } from '../../../data/categories';
 import CategoryBox from '../../../components/CategoryBox';
 import ProductHomeItem from '../../../components/ProductHomeItem';
-import { getServices } from '../../../utils/backendCalls';
+import { getServices } from '../../../utils/services';
 import { ServicesContext } from '../../../../App';
 
 const Home = ({ navigation }) => {

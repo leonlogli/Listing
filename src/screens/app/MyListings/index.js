@@ -4,7 +4,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import FavoriteItem from '../../../components/FavoriteItem';
 import Header from '../../../components/Header';
 import { ProfileContext, ServicesContext } from '../../../../App';
-import { deleteService } from '../../../utils/backendCalls';
+import { deleteService } from '../../../utils/services';
 
 const MyListings = ({ navigation }) => {
   const { services, setServices } = useContext(ServicesContext);

@@ -16,7 +16,7 @@ import { launchImageLibrary } from 'react-native-image-picker';
 import Input from '../../../components/Input';
 import Button from '../../../components/Button';
 import { categories } from '../../../data/categories';
-import { addService } from '../../../utils/backendCalls';
+import { addService } from '../../../utils/services';
 import { ServicesContext } from '../../../../App';
 
 const CreateListing = ({ navigation }) => {

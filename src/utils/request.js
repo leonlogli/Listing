@@ -3,16 +3,12 @@ import env from '../../env';
 
 export const request = ({ url, method, data, headers }) => {
   return axios({
+    baseURL: env.API_BASE_URL,
     method: method || 'get',
-    url: `${env.API_BASE_URL}${url}`,
+    url,
     data,
-    withCredentials: false,
-    headers: {
-      'Access-Control-Allow-Origin': '*',
-      'Content-Type': 'application/json',
-      ...headers,
-    },
-  });
+    headers,
+  }).then((res) => res.data);
 };
 
 export const addTokenToAxios = (token) => {

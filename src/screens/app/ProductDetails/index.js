@@ -11,7 +11,7 @@ import { styles } from './styles';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import Button from '../../../components/Button';
 import ImageCarousel from '../../../components/ImageCarousel';
-import { updateService } from '../../../utils/backendCalls';
+import { updateService } from '../../../utils/services';
 import { ServicesContext } from '../../../../App';
 
 const ProductDetails = ({ route, navigation }) => {

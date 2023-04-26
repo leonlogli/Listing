@@ -4,7 +4,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import FavoriteItem from '../../../components/FavoriteItem';
 import Header from '../../../components/Header';
 import { ServicesContext } from '../../../../App';
-import { updateService } from '../../../utils/backendCalls';
+import { updateService } from '../../../utils/services';
 
 const Favorites = ({ navigation }) => {
   const { services, setServices } = useContext(ServicesContext);
